@@ -35,6 +35,9 @@ MCreator uses Gradle build system to manage the building and exporting. Use `run
 It is recommended to use Intellij IDEA for development and testing. Learn more about the development process, and 
 tips on [MCreator developers wiki](https://github.com/MCreator/MCreator/wiki).
 
+Forked by @souldbminer
+youtube.com/u/souldbminer/
+
 ## License and trademark
 
 MCreator is licensed under the GPL-3.0 license (with exceptions implemented as specified in section 7 of GPL-3.0) if not otherwise stated in source files or other files of this project. Copyright 2020 Pylo and [contributors](https://github.com/MCreator/MCreator/graphs/contributors).
